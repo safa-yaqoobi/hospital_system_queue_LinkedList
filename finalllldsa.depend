@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777713946 source:c:\users\rsch\onedrive\desktop\data strc\finalllldsa\main.cpp
+	"Hospital.h"
+
+1778337503 c:\users\rsch\onedrive\desktop\data strc\finalllldsa\hospital.h
+	<iostream>
+	<string>
+
